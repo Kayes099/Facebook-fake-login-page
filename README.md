@@ -2,6 +2,9 @@
 
 This is a simulated login page created **strictly for educational purposes only**. It is designed to help learners understand how phishing attacks work and how to prevent them. This project does **not** target any specific website or service, and **must not** be used for malicious activities.
 
+## the page looks like:
+![Example Preview](./example.png)
+
 ## Features
 - Simple HTML/CSS login form
 - Logs entered username and password (for local test only)
